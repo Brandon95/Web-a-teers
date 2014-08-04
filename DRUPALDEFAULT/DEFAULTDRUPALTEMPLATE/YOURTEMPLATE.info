@@ -1,0 +1,15 @@
+;BASE TEMPLATE
+
+name = YOUR TEMPLATE
+description = YOUR DESCRIPTION
+screenshot = img/screenshot.jpg
+core = 7.x
+
+; YOURGRID
+stylesheets[all][] = css/
+
+; YOURSTYLE
+stylesheets[all][] = css/
+
+regions[YOURREGION]      = YOURREGION
+
